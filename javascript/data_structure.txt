@@ -1,0 +1,5 @@
+https://www.thatjsdude.com/interview/js1.html
+https://shinjukudev.medium.com/algorithm-interview-questions-and-answers-js-c44f0872b9b2
+https://javascript.plainenglish.io/javascript-data-structure-interview-programs-7ad90214dced
+https://www.educative.io/blog/javascript-data-structures
+https://betterprogramming.pub/common-javascript-algorithm-interview-questions-explained-68d8c4186270

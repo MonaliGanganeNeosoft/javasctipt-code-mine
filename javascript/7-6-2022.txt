@@ -1,0 +1,4 @@
+Hi pulkit
+today we created api related to 
+list-intent and traning pahses
+we are waiting for further instructions.

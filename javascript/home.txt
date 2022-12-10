@@ -1,0 +1,11 @@
+rent place->16lac
+landname amount->50000
+3 floors->15 lac rate 20 lackh
+
+light connection
+->50000
+water connection
+->50000
+drain line
+->20000
+

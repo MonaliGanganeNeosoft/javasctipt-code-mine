@@ -1,0 +1,9 @@
+1]open cmd=>
+
+heroku login
+
+heroku create
+git status
+git add .
+git commit -m "first chatbot"
+git push heroku master

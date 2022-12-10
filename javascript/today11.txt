@@ -1,0 +1,17 @@
+ hii pulkit
+today we looking into couple of concepts in 
+dialogflow documentation
+and we implement the knowledge base api. 
+and waiting for further instructions.
+
+
+hii pulkit
+today we looking into couple of concepts in 
+dialogflow documentation
+and we implement the How to connect 
+your Dialogflow agent with Node Js 
+and access knowledge base api.
+
+
+You can easily provide a FAQ html link for the FAQ file. 
+
